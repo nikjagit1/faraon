@@ -10,5 +10,7 @@ class Calc {
         }
 
         System.out.println(a + b);
+
+        System.out.println("Начнем");
     }
 }
